@@ -21,8 +21,21 @@
     "scss": "^0.2.4",
     "three": "^0.142.0"
   },
-  "engines" : { 
-    "npm" : "8.12.2",
-    "node" : "18.4.0"
-  }
+  "engines": {
+    "npm": "8.12.2",
+    "node": "18.4.0"
+  },
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohankhera1/personalwebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohankhera1/personalwebsite/issues"
+  },
+  "homepage": "https://github.com/rohankhera1/personalwebsite#readme",
+  "description": ""
 }
